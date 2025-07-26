@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-google-genai
+beautifulsoup4
+requests
+duckduckgo-search
+pydantic
+streamlit
+markdown
+xhtml2pdf
